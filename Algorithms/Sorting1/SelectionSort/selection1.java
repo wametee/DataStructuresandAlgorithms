@@ -42,9 +42,8 @@
 
 // So, after 4 iterations(i.e. n-1 iterations where n = size of the array), the given array is sorted.
 
-import java.util.*;
 
-public class tUf {
+public class selection1 {
     static void selection_sort(int arr[], int n) {
         for (int i = 0; i < n - 1; i++) {
             int mini = i;

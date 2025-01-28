@@ -8,7 +8,7 @@
 import java.util.Scanner; // import java.util imports all classes and interfaces from the java.util package
 
 //  declare the main method using public static void main(String[] args) {}
-public class Main {
+public class skeleton {
     public static void main(String[] args) {
 
     }
